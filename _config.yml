@@ -12,12 +12,10 @@ header:
  title: "Photography"
  subtitle: "by Saatvik Bhayana"
 footer:
- name: "Hey there, my name is Saatvik"
+ name: "Hey there, my name is Saatvik Bhayana"
  bio: "I am a developer and a tech aficionado from Toronto. With a love for beautiful views, I decided to pick up photography to try to share the world through my eyes."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
-web_design: "AJ"
 social_urls:
- # facebook: "https://www.facebook.com/ramswaroop"
+  #facebook: "https://www.facebook.com/ramswaroop"
   #twitter: "https://www.twitter.com/ram__patra"
   instagram: "https://www.instagram.com/sb.photography.guelph"
   #dribbble: "https://dribbble.com/rampatra"
